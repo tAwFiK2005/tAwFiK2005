@@ -66,12 +66,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tAwFiK2005&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="Ahmed's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tAwFiK2005&layout=compact&theme=tokyonight&cache_seconds=1800&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tAwFiK2005&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tAwFiK2005&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tAwFiK2005&theme=tokyonight" width="32%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tAwFiK2005&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tAwFiK2005&theme=tokyonight" width="100%"/>
 </p>
 
 ---
