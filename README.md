@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tAwFiK2005/Ahmed-Tawfik/main/1753281036758.jpg" alt="Ahmed Tawfik – Front-end Developer & Data Scientist & Odoo Developer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/tAwFiK2005/Ahmed-Tawfik/main/1b5fd89a-183e-4a69-92ab-9d7101d2bcba.png" alt="Ahmed Tawfik – Front-end Developer & Data Scientist & Odoo Developer" width="100%"/>
 </p>
 
 <p align="center">
